@@ -35,42 +35,46 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A discourse of the subtill practises of deuilles by vvitches and sorcerers By which men are and haue
+
+1. ¶ To the right woorshipfull Maister Richard Martin, Alderman, and VVarden of her Maiesties Mint.
+
 #####Body#####
 
-1. The 1 Chapter.
+1. A BRIEFE DISCOVRSE wherein is declared the subtil practise of deuils by witches and sorcerers, by which men are and haue bene greatly seduced.
 
-1. The definition of a witch: the antiquity of witchcraft.
+    _ The 1 Chapter.
+
+    _ The definition of a witch: the antiquity of witchcraft.
 The 2 Chapter.
 
-1. That there be 8. sortes of Witches and practisers of deuilish art, mentioned, Deuter. 18. whose names and their interpretation do here follow.
+    _ That there be 8. sortes of Witches and practisers of deuilish art, mentioned, Deuter. 18. whose names and their interpretation do here follow.
 The 3. Chapter.
 
-1. The nature of deuils described with there operations and effectes.
+    _ The nature of deuils described with there operations and effectes.
 The 4 Chapter.
 
-1. Deuils haue no power to hurt mens bodies or goods, but vpon speciall leaue giuen vnto them.
+    _ Deuils haue no power to hurt mens bodies or goods, but vpon speciall leaue giuen vnto them.
 The 5. Chapter.
 
-1. Diuels can appeare in a bodily shape, and vse speeche and conference with men.
+    _ Diuels can appeare in a bodily shape, and vse speeche and conference with men.
 The 6. Chapter.
 
-1. An answere vnto certaine friuolous reasons, which some doe make to proue that the Deuils did not make those apparitions, & that he cannot appeare in any bodily shape.
+    _ An answere vnto certaine friuolous reasons, which some doe make to proue that the Deuils did not make those apparitions, & that he cannot appeare in any bodily shape.
 The 7. Chapter.
 
-1. No man nor woman can giue power vnto the deuill to doe hurt, neither doth their sending authorize him, but he vseth them onely for a colour.
+    _ No man nor woman can giue power vnto the deuill to doe hurt, neither doth their sending authorize him, but he vseth them onely for a colour.
 The 8. Chapter.
 
-1. That the Deuill practising his mischiefe by sorcerers, doth lead the wicked world into many horrible sinnes which snare the soules of men vnto eternall condemnation.
+    _ That the Deuill practising his mischiefe by sorcerers, doth lead the wicked world into many horrible sinnes which snare the soules of men vnto eternall condemnation.
 The 9. Chapter.
 
-1. The sharp punishment appointed in the word of God for such as worke with the deuill, and the true cause of the same, and that it is no godly zeale but furious rage, wherewith the common sort are caried against witches.
+    _ The sharp punishment appointed in the word of God for such as worke with the deuill, and the true cause of the same, and that it is no godly zeale but furious rage, wherewith the common sort are caried against witches.
 Chapt. 10.
 
-1. What manner of persons are fittest for the deuill to make his instruments in witchcraft & sorceries, and who are subiect vnto his harmes.
+    _ What manner of persons are fittest for the deuill to make his instruments in witchcraft & sorceries, and who are subiect vnto his harmes.
 Chapt. 11.
 
-1. The true remedy whereby men are deliuered from all feare and daunger of witchcraft.
+    _ The true remedy whereby men are deliuered from all feare and daunger of witchcraft.
 Chapt. 12.
 
 **Types of content**
